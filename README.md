@@ -1,0 +1,1 @@
+Juste pour préciser il ya les différents methodes de faire soit avec la console ou bien avec une création dynamique (createElement et appendChild) ou encore avec la création d'élément html dans le js de façon dynamique aussi.
